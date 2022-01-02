@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Aurélien 👋
 
-<!--
-**auredentan/auredentan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to participate more in the OSS community
 
-Here are some ideas to get you started:
+## Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+## My stats
+
+![Github stats](https://metrics.lecoq.io/auredentan)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=auredentan&show_icons=true&count_private=true&theme=gotham)
+
+[linkedin]: https://www.linkedin.com/in/adentan/
